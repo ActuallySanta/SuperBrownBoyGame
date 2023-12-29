@@ -1,0 +1,1531 @@
+fileFormatVersion: 2
+guid: bb32f972bfeafe34b9e17f3f2261f84b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 68
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: World_1-1_Tiles (7)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 342
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c8fd41f7df16e6418d299ce86e039db
+      internalID: -908605985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World_1-1_Tiles (7)_1
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 342
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b083ae416623e43871007a914a1502
+      internalID: 1765396371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World_1-1_Tiles (7)_2
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 342
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea386ba1810540547aec25a0dbf348a8
+      internalID: -1905229152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World_1-1_Tiles (7)_3
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 342
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a4daafa97cf7f5418147a0d27145d40
+      internalID: 1270587484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World_1-1_Tiles (7)_4
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 342
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18b3a23e9a3d13479732ad5966ffd1d
+      internalID: 1417427451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World_1-1_Tiles (7)_5
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 342
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 985bf5da09e4c8349a3d9026fc8c1a0d
+      internalID: 953120551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World_1-1_Tiles (7)_6
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 342
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5cc47cddfaba4e4cade262d8be56781
+      internalID: 976862566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World_1-1_Tiles (7)_7
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 342
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc2c3895c27b22449ae7ea511839c3d
+      internalID: -1807347756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World_1-1_Tiles (7)_8
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 342
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 376b5b70d36fe744f8aa17a6d2abc436
+      internalID: 1444175268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World_1-1_Tiles (7)_9
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 342
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f784b4bcf36f876449771d2ae755653f
+      internalID: 588811862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World_1-1_Tiles (7)_10
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 342
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a63bf42ab954b479e4cd8c1824a03f
+      internalID: -84638449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World_1-1_Tiles (7)_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 274
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 737cf3842afe26a438da70a21d80ea4c
+      internalID: 1310220303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World_1-1_Tiles (7)_12
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 274
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d44975383739f04481e8bd2c67a4a8e
+      internalID: -1521865394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World_1-1_Tiles (7)_13
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 274
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ead86b87e3dc6c34197a82a66f9c8ab7
+      internalID: 2037341939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World_1-1_Tiles (7)_14
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 274
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce64df000f56f843a19520a8deaa6d4
+      internalID: 706902036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World_1-1_Tiles (7)_15
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 274
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 502320e453cf32e4a8f377b8c088102b
+      internalID: -67603174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World_1-1_Tiles (7)_16
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 274
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f09111eee2e3684780230fe62f27c94
+      internalID: -448993203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World_1-1_Tiles (7)_17
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 274
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 664e1484a3ab4cf4b90d8621dd704cfb
+      internalID: -172726706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World_1-1_Tiles (7)_18
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 274
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5790c0c83e2a81498342094b8919533
+      internalID: -307649087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World_1-1_Tiles (7)_19
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 274
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff95fd40dd9736b44b95a8a3bee0809b
+      internalID: -891742191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World_1-1_Tiles (7)_20
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 274
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b52cca5fa7b61a4881141ce1d04317c
+      internalID: -1945597436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World_1-1_Tiles (7)_21
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 274
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98767c8caefa5e2489cf01fbbbb3901c
+      internalID: -1528477516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World_1-1_Tiles (7)_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 206
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f03f752653ee35a4781c602d48f43c28
+      internalID: 1433667873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World_1-1_Tiles (7)_23
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 206
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 642fc530a79ed834cbe87eb2af0e8999
+      internalID: -108342014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World_1-1_Tiles (7)_24
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 206
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe0fbc76a16ce4c49a7e0478717e1d2e
+      internalID: -1715396149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World_1-1_Tiles (7)_25
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 206
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5626b30dd0dfe84aaf477a03dff7a7b
+      internalID: 735658488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World_1-1_Tiles (7)_26
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 206
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb0921eeb66d0449bf403d4a707e491
+      internalID: -226708532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World_1-1_Tiles (7)_27
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 206
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e787210de77897348b78fa07c0129530
+      internalID: 1763116428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World_1-1_Tiles (7)_28
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 206
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eeb4880122a27e428fe6c6267c82ca8
+      internalID: 221307233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World_1-1_Tiles (7)_29
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 206
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fefbb9a752cf6f42bf91851c395e6a9
+      internalID: 373058761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World_1-1_Tiles (7)_30
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 206
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27dfaa7de48b6db45b961e23bdb93376
+      internalID: -135710122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World_1-1_Tiles (7)_31
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 206
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5faa8ee7d365bef449eb1afdda1889af
+      internalID: 1912202885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World_1-1_Tiles (7)_32
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 206
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41815e8fdd63fa64d8d72603db696349
+      internalID: 1936284373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World_1-1_Tiles (7)_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 138
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e899b0c3a236a1478421b3583366d2d
+      internalID: -1190301411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World_1-1_Tiles (7)_34
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 138
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a30e7c99201194f4b9a5a43f480ef426
+      internalID: -1534879829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World_1-1_Tiles (7)_35
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 138
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb248e37e3d90a4bad1765d3afab614
+      internalID: -1567928238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World_1-1_Tiles (7)_36
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 138
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e66f8be945159c144b4ab3805b8a7795
+      internalID: 1500361507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World_1-1_Tiles (7)_37
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 138
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2cb5d63dae0294478d0fdf6440c5b1b
+      internalID: -542070093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World_1-1_Tiles (7)_38
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 138
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f45aa653f8029124f8e5be655eab2af0
+      internalID: 1977178770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World_1-1_Tiles (7)_39
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 138
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c5d17fc88f39954d80135f248d18f0c
+      internalID: 1131196515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World_1-1_Tiles (7)_40
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 138
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bc9f77c466f44845ac46a7bd84c0e2e
+      internalID: -1967053152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World_1-1_Tiles (7)_41
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 138
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9793093e672ba04da1ad9d20decd027
+      internalID: 285854644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World_1-1_Tiles (7)_42
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 138
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 884ee92ffa7eaea479fcd480cc8ec3d8
+      internalID: 818288080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World_1-1_Tiles (7)_43
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 138
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e02f09debaa8e9147ab847b894d7befe
+      internalID: 2065068687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World_1-1_Tiles (7)_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 70
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd0f34ce5c695284b9f665b4ea6d7522
+      internalID: 1308825285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World_1-1_Tiles (7)_45
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 70
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e4f59f4c27af3a4c8d0e9361e5e23ac
+      internalID: 1356681433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World_1-1_Tiles (7)_46
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 70
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf12c1708514b148befc2b294b32c57
+      internalID: 1149844233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World_1-1_Tiles (7)_47
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 70
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33be2e9d75a5440428fc3380dd6ece12
+      internalID: 1561125383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World_1-1_Tiles (7)_48
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 70
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f85abb27dbee27549a243839cfa76d05
+      internalID: -645503745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World_1-1_Tiles (7)_49
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 70
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd4f2cc5a8aa5245a88cecb1c6b6fc7
+      internalID: 1966529513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World_1-1_Tiles (7)_50
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 70
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70a9bbc229ad63d4fb07501eee51e0c8
+      internalID: 814009580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World_1-1_Tiles (7)_51
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 70
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c887e8ae1b3464a9325b65a168da48
+      internalID: -162600765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World_1-1_Tiles (7)_52
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 70
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4259c650f7f51d243b8f5438c4486342
+      internalID: -1034729056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World_1-1_Tiles (7)_53
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 70
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17264b65236f858498e31a1b2848742c
+      internalID: 1343683008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World_1-1_Tiles (7)_54
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 70
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1943e8ebb07f0534ca50a4ed917bafde
+      internalID: 1774001363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World_1-1_Tiles (7)_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 202be4b537c7b7f4b82e71561e0ddf1f
+      internalID: -1134298585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World_1-1_Tiles (7)_56
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 2
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd3f1adfa1e7524d8770381cf6c783c
+      internalID: 759364518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World_1-1_Tiles (7)_57
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 2
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0d0d7f7da15104bacdd56833dbb151
+      internalID: 173446271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World_1-1_Tiles (7)_58
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 2
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae4cab8e787e2d40be2bc39338ea91a
+      internalID: -242838168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World_1-1_Tiles (7)_59
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 2
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f94bbf0745653499b0154093d756d2
+      internalID: -1461767486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World_1-1_Tiles (7)_60
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 2
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8799121445e5d1148ac24837553fc5d8
+      internalID: -655385935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World_1-1_Tiles (7)_61
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 2
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e6a75a6c8ff9a41ab7732f9b84f3f6
+      internalID: 519902686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World_1-1_Tiles (7)_62
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 2
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3d13e145f46584195a9251426a0903
+      internalID: -207130378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World_1-1_Tiles (7)_63
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 2
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 943bf81d68c4f854b8dd785e08d256cd
+      internalID: 761283308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      World_1-1_Tiles (7)_0: -908605985
+      World_1-1_Tiles (7)_1: 1765396371
+      World_1-1_Tiles (7)_10: -84638449
+      World_1-1_Tiles (7)_11: 1310220303
+      World_1-1_Tiles (7)_12: -1521865394
+      World_1-1_Tiles (7)_13: 2037341939
+      World_1-1_Tiles (7)_14: 706902036
+      World_1-1_Tiles (7)_15: -67603174
+      World_1-1_Tiles (7)_16: -448993203
+      World_1-1_Tiles (7)_17: -172726706
+      World_1-1_Tiles (7)_18: -307649087
+      World_1-1_Tiles (7)_19: -891742191
+      World_1-1_Tiles (7)_2: -1905229152
+      World_1-1_Tiles (7)_20: -1945597436
+      World_1-1_Tiles (7)_21: -1528477516
+      World_1-1_Tiles (7)_22: 1433667873
+      World_1-1_Tiles (7)_23: -108342014
+      World_1-1_Tiles (7)_24: -1715396149
+      World_1-1_Tiles (7)_25: 735658488
+      World_1-1_Tiles (7)_26: -226708532
+      World_1-1_Tiles (7)_27: 1763116428
+      World_1-1_Tiles (7)_28: 221307233
+      World_1-1_Tiles (7)_29: 373058761
+      World_1-1_Tiles (7)_3: 1270587484
+      World_1-1_Tiles (7)_30: -135710122
+      World_1-1_Tiles (7)_31: 1912202885
+      World_1-1_Tiles (7)_32: 1936284373
+      World_1-1_Tiles (7)_33: -1190301411
+      World_1-1_Tiles (7)_34: -1534879829
+      World_1-1_Tiles (7)_35: -1567928238
+      World_1-1_Tiles (7)_36: 1500361507
+      World_1-1_Tiles (7)_37: -542070093
+      World_1-1_Tiles (7)_38: 1977178770
+      World_1-1_Tiles (7)_39: 1131196515
+      World_1-1_Tiles (7)_4: 1417427451
+      World_1-1_Tiles (7)_40: -1967053152
+      World_1-1_Tiles (7)_41: 285854644
+      World_1-1_Tiles (7)_42: 818288080
+      World_1-1_Tiles (7)_43: 2065068687
+      World_1-1_Tiles (7)_44: 1308825285
+      World_1-1_Tiles (7)_45: 1356681433
+      World_1-1_Tiles (7)_46: 1149844233
+      World_1-1_Tiles (7)_47: 1561125383
+      World_1-1_Tiles (7)_48: -645503745
+      World_1-1_Tiles (7)_49: 1966529513
+      World_1-1_Tiles (7)_5: 953120551
+      World_1-1_Tiles (7)_50: 814009580
+      World_1-1_Tiles (7)_51: -162600765
+      World_1-1_Tiles (7)_52: -1034729056
+      World_1-1_Tiles (7)_53: 1343683008
+      World_1-1_Tiles (7)_54: 1774001363
+      World_1-1_Tiles (7)_55: -1134298585
+      World_1-1_Tiles (7)_56: 759364518
+      World_1-1_Tiles (7)_57: 173446271
+      World_1-1_Tiles (7)_58: -242838168
+      World_1-1_Tiles (7)_59: -1461767486
+      World_1-1_Tiles (7)_6: 976862566
+      World_1-1_Tiles (7)_60: -655385935
+      World_1-1_Tiles (7)_61: 519902686
+      World_1-1_Tiles (7)_62: -207130378
+      World_1-1_Tiles (7)_63: 761283308
+      World_1-1_Tiles (7)_7: -1807347756
+      World_1-1_Tiles (7)_8: 1444175268
+      World_1-1_Tiles (7)_9: 588811862
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

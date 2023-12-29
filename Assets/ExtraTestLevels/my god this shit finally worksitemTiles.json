@@ -1,0 +1,18 @@
+{
+    "itemNames": [
+        "RespawnPoint",
+        "WinFlag"
+    ],
+    "positions": [
+        {
+            "x": -10,
+            "y": 1,
+            "z": 0
+        },
+        {
+            "x": 8,
+            "y": 1,
+            "z": 0
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "layers": [
+        {
+            "layerID": 30,
+            "tiles": [],
+            "positions": []
+        },
+        {
+            "layerID": 40,
+            "tiles": [],
+            "positions": []
+        },
+        {
+            "layerID": 60,
+            "tiles": [],
+            "positions": []
+        }
+    ]
+}{
+    "itemNames": [],
+    "positions": []
+}

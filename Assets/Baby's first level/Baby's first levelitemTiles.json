@@ -1,0 +1,24 @@
+{
+    "itemNames": [
+        "SawBlade",
+        "RespawnPoint",
+        "WinFlag"
+    ],
+    "positions": [
+        {
+            "x": 1,
+            "y": -1,
+            "z": 0
+        },
+        {
+            "x": -11,
+            "y": 0,
+            "z": 0
+        },
+        {
+            "x": 14,
+            "y": 0,
+            "z": 0
+        }
+    ]
+}

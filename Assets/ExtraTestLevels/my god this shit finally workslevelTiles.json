@@ -1,0 +1,164 @@
+{
+    "layers": [
+        {
+            "layerID": 30,
+            "tiles": [],
+            "positions": []
+        },
+        {
+            "layerID": 40,
+            "tiles": [],
+            "positions": []
+        },
+        {
+            "layerID": 50,
+            "tiles": [
+                "BasicTile",
+                "BasicTile",
+                "BasicTile",
+                "BasicTile",
+                "BasicTile",
+                "BasicTile",
+                "BasicTile",
+                "BasicTile",
+                "BasicTile",
+                "BasicTile",
+                "BasicTile",
+                "BasicTile",
+                "BasicTile",
+                "BasicTile",
+                "BasicTile",
+                "BasicTile",
+                "BasicTile",
+                "BasicTile",
+                "BasicTile",
+                "BasicTile",
+                "BasicTile",
+                "BasicTile",
+                "BasicTile"
+            ],
+            "positions": [
+                {
+                    "x": -13,
+                    "y": -1,
+                    "z": 0
+                },
+                {
+                    "x": -12,
+                    "y": -1,
+                    "z": 0
+                },
+                {
+                    "x": -11,
+                    "y": -1,
+                    "z": 0
+                },
+                {
+                    "x": -9,
+                    "y": -1,
+                    "z": 0
+                },
+                {
+                    "x": -8,
+                    "y": -1,
+                    "z": 0
+                },
+                {
+                    "x": -6,
+                    "y": -1,
+                    "z": 0
+                },
+                {
+                    "x": -5,
+                    "y": -1,
+                    "z": 0
+                },
+                {
+                    "x": -4,
+                    "y": -1,
+                    "z": 0
+                },
+                {
+                    "x": -3,
+                    "y": -1,
+                    "z": 0
+                },
+                {
+                    "x": -2,
+                    "y": -1,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": -1,
+                    "z": 0
+                },
+                {
+                    "x": 1,
+                    "y": -1,
+                    "z": 0
+                },
+                {
+                    "x": 2,
+                    "y": -1,
+                    "z": 0
+                },
+                {
+                    "x": 3,
+                    "y": -1,
+                    "z": 0
+                },
+                {
+                    "x": 4,
+                    "y": -1,
+                    "z": 0
+                },
+                {
+                    "x": 5,
+                    "y": -1,
+                    "z": 0
+                },
+                {
+                    "x": 6,
+                    "y": -1,
+                    "z": 0
+                },
+                {
+                    "x": 7,
+                    "y": -1,
+                    "z": 0
+                },
+                {
+                    "x": 8,
+                    "y": -1,
+                    "z": 0
+                },
+                {
+                    "x": 9,
+                    "y": -1,
+                    "z": 0
+                },
+                {
+                    "x": 10,
+                    "y": -1,
+                    "z": 0
+                },
+                {
+                    "x": 11,
+                    "y": -1,
+                    "z": 0
+                },
+                {
+                    "x": 12,
+                    "y": -1,
+                    "z": 0
+                }
+            ]
+        },
+        {
+            "layerID": 60,
+            "tiles": [],
+            "positions": []
+        }
+    ]
+}

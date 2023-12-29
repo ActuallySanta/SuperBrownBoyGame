@@ -1,0 +1,18 @@
+{
+    "itemNames": [
+        "WinFlag",
+        "SawBlade"
+    ],
+    "positions": [
+        {
+            "x": 8,
+            "y": -1,
+            "z": 0
+        },
+        {
+            "x": -3,
+            "y": -3,
+            "z": 0
+        }
+    ]
+}
