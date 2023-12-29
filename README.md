@@ -1,0 +1,1 @@
+PLEASE NOTE - the character controller is not of my own creation but a unity asset that I found on the asset store, I am using it to expedite development and focus on other aspects of game development
